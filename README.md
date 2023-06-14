@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thiagomagalhaeslucio
-- 👀 I’m interested in programação 
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML, css e javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @thiagomagalhaeslucio45@gmail.com
