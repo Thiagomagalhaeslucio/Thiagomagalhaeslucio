@@ -1,4 +1,4 @@
-- 👋 ## Ola eu sou o Thiago Magalhães, faço faculdade de analise e desenvolvimento de sistema na Fatec!
+- 👋 <h2>Ola eu sou o Thiago Magalhães, faço faculdade de analise e desenvolvimento de sistema na Fatec!</h2>
 - 🌱 Estou estudando Python
 - 📫 How to reach me @thiagomagalhaeslucio40@gmail.com
 
