@@ -1,7 +1,7 @@
 <h2>👋 Ola eu sou o Thiago Magalhães, faço faculdade de analise e desenvolvimento de sistema na Fatec!</h2>
 - 🌱 Estou estudando Python
 - 📫 How to reach me @thiagomagalhaeslucio40@gmail.com
-
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomagalhaeslucio&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomagalhaeslucio&layout=compact)](https://github.com/thiagomagalhaeslucio/github-readme-stats)
 <div style="display: inline_block"><br>
