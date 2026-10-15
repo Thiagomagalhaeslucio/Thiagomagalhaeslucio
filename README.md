@@ -20,13 +20,13 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas na FATEC**, com foco em **segurança ofensiva e pentest**. Estudo por conta própria em paralelo à faculdade: Linux, redes, exploração de vulnerabilidades web e laboratórios práticos.
 
-Também desenvolvo projetos pessoais e acadêmicos em web e jogos — entender como o software é construído é o que permite entender como ele quebra.
+Também desenvolvo projetos pessoais e acadêmicos em web e jogos, entender como o software é construído é o que permite entender como ele quebra.
 
 ### 🇺🇸 About
 
 Systems Analysis and Development student at **FATEC**, focused on **offensive security and penetration testing**. Self-directed study alongside university: Linux, networking, web vulnerability exploitation and hands-on labs.
 
-I also build personal and academic projects in web and game development — understanding how software is built is what lets you understand how it breaks.
+I also build personal and academic projects in web and game development understanding how software is built is what lets you understand how it breaks.
 
 ---
 
