@@ -1,29 +1,70 @@
-<h2>👋 Ola eu sou o Thiago Magalhães, faço faculdade de analise e desenvolvimento de sistema na Fatec!</h2>
-- 🌱 Estou estudando Python
+<div align="center">
+
+# Thiago Magalhães
+
+**Cybersecurity & Development · Penetration testing focused**
+
+<sub>Análise e Desenvolvimento de Sistemas — FATEC · Mauá, SP</sub>
+
 <br>
-- 📫 How to reach me @thiagomagalhaeslucio40@gmail.com
 
+![](https://img.shields.io/badge/Focus-Offensive_Security-0d1117?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Studying-ADS_@_FATEC-0d1117?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Open_to-Internships-0d1117?style=flat-square&labelColor=0d1117)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomagalhaeslucio&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomagalhaeslucio&layout=compact)](https://github.com/thiagomagalhaeslucio/github-readme-stats)
-<div style="display: inline_block">
-<h2> 🤖 Linguagens e Tecnologias</h2>
-  
-  <img align="center" alt="theks-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="theks-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="theks-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="theks-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
- <br>
- 
-<div> 
-  <a href="https://instagram.com/thiago0_0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/thiago-magalhaes-366605274" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+---
+
+### 🇧🇷 Sobre
+
+Estudante de **Análise e Desenvolvimento de Sistemas na FATEC**, com foco em **segurança ofensiva e pentest**. Estudo por conta própria em paralelo à faculdade: Linux, redes, exploração de vulnerabilidades web e laboratórios práticos.
+
+Também desenvolvo projetos pessoais e acadêmicos em web e jogos — entender como o software é construído é o que permite entender como ele quebra.
+
+### 🇺🇸 About
+
+Systems Analysis and Development student at **FATEC**, focused on **offensive security and penetration testing**. Self-directed study alongside university: Linux, networking, web vulnerability exploitation and hands-on labs.
+
+I also build personal and academic projects in web and game development — understanding how software is built is what lets you understand how it breaks.
+
+---
+
+### Stack
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiagomagalhaeslucio/thiagomagalhaeslucio/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiagomagalhaeslucio/thiagomagalhaeslucio/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thiagomagalhaeslucio/thiagomagalhaeslucio/output/github-contribution-grid-snake.svg">
-</picture>
+---
+
+### GitHub
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Thiagomagalhaeslucio&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagomagalhaeslucio&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f" />
+
+</div>
+
+---
+
+### Contato / Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-magalhaes-lucio/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagomagalhaeslucio40@gmail.com)
+
+</div>
